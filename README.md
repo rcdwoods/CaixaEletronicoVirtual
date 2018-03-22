@@ -1,8 +1,8 @@
-versão: 0.1
+﻿versão: 0.2
 ## Implementações:
 
 - [x] Opção de saque.
 - [x] Login e registro de usuários.
-- [ ] Mostrar informações bancárias do usuário: saldo disponível, últimos saques, etc.
+- [x] Mostrar informações bancárias do usuário: saldo disponível, últimos saques, etc.
 - [ ] Opção de depósito.
 - [ ] Opção de transferência.
